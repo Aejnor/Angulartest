@@ -11,7 +11,7 @@ export class PruebaHijoComponent implements OnInit {
     @Input() producto: Producto;
     @Input('tienda') nombreTienda: String;
 
-    @Output() cambiarNombre = new EventEmitter<boolean>();
+    @Output() cambiarNombre = new EventEmitter<string>();
 
 
     cambiarNombreEnPadre(nombre: string) {
