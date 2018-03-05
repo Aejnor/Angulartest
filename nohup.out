@@ -1,0 +1,470 @@
+** NG Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+webpack: wait until bundle finished: /
+[0mDate: [1m[37m2018-02-21T18:27:51.382Z[39m[22m[0m
+[0mHash: [1m[37m0df2b6262f57454654d8[39m[22m[0m
+[0mTime: [1m[37m8003[39m[22mms[0m
+[0mchunk {[1m[33minline[39m[22m} [1m[32minline.bundle.js[39m[22m (inline) 5.79 kB [1m[33m[entry][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mpolyfills[39m[22m} [1m[32mpolyfills.bundle.js[39m[22m (polyfills) 553 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mscripts[39m[22m} [1m[32mscripts.bundle.js[39m[22m (scripts) 155 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mstyles[39m[22m} [1m[32mstyles.bundle.js[39m[22m (styles) 429 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mvendor[39m[22m} [1m[32mvendor.bundle.js[39m[22m (vendor) 8.22 MB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:28:24.092Z[39m[22m - Hash: [1m[37m59faa1b84ec6f120d21c[39m[22m - Time: [1m[37m246[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:29:08.620Z[39m[22m - Hash: [1m[37m7d90201100154e3afa70[39m[22m - Time: [1m[37m247[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:30:39.192Z[39m[22m - Hash: [1m[37mae9518f1968b689a65a7[39m[22m - Time: [1m[37m86[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.2 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:32:02.163Z[39m[22m - Hash: [1m[37m34748f511d062ae086d8[39m[22m - Time: [1m[37m105[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.2 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:32:17.130Z[39m[22m - Hash: [1m[37me702f8ff8b4ae082f593[39m[22m - Time: [1m[37m101[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.1 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:32:25.212Z[39m[22m - Hash: [1m[37m9b45bad03ae9a56dd88d[39m[22m - Time: [1m[37m81[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.1 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:32:43.755Z[39m[22m - Hash: [1m[37ma46a240d6bedf91540a3[39m[22m - Time: [1m[37m78[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.2 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:32:56.904Z[39m[22m - Hash: [1m[37m81075476ca6bf33fee2f[39m[22m - Time: [1m[37m162[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.2 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:33:20.687Z[39m[22m - Hash: [1m[37mceeaf41ea96bc0ea45de[39m[22m - Time: [1m[37m89[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.2 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:33:26.959Z[39m[22m - Hash: [1m[37m3a1b6226a3906ff53db9[39m[22m - Time: [1m[37m127[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.2 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:33:33.116Z[39m[22m - Hash: [1m[37mb43305f6a3d18bf0f0ee[39m[22m - Time: [1m[37m109[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.2 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:33:39.657Z[39m[22m - Hash: [1m[37m9b45bad03ae9a56dd88d[39m[22m - Time: [1m[37m87[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.1 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:37:29.544Z[39m[22m - Hash: [1m[37m7a43c2417340c456ae32[39m[22m - Time: [1m[37m206[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 56.5 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:38:56.920Z[39m[22m - Hash: [1m[37m77017f88f652e364cac1[39m[22m - Time: [1m[37m139[39m[22mms[0m
+[0m6 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:42:57.110Z[39m[22m - Hash: [1m[37m711eb9198f2e8d190dc2[39m[22m - Time: [1m[37m145[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 56.5 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:43:09.143Z[39m[22m - Hash: [1m[37m77017f88f652e364cac1[39m[22m - Time: [1m[37m189[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 56.5 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:43:40.351Z[39m[22m - Hash: [1m[37m0f97ddbdb7a86efa2cbf[39m[22m - Time: [1m[37m174[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 57 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:43:49.888Z[39m[22m - Hash: [1m[37mdbe26d92b8e117d81926[39m[22m - Time: [1m[37m164[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 57 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:44:08.014Z[39m[22m - Hash: [1m[37m32b6e8680f1a971981b0[39m[22m - Time: [1m[37m160[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 56.9 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:44:42.141Z[39m[22m - Hash: [1m[37m216d16aa3bdd3c1a4172[39m[22m - Time: [1m[37m184[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 57 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/mi-tercera-directiva.directive.ts(12,5): error TS1206: Decorators are not valid here.[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:46:37.356Z[39m[22m - Hash: [1m[37m399944ab741961c379ca[39m[22m - Time: [1m[37m201[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 57.6 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:47:05.283Z[39m[22m - Hash: [1m[37m7016c9c356eb28526205[39m[22m - Time: [1m[37m132[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 57.6 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:48:19.913Z[39m[22m - Hash: [1m[37m4ccad3dbe80ba8837668[39m[22m - Time: [1m[37m182[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 57.9 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:48:35.966Z[39m[22m - Hash: [1m[37m445ad5034849b4a7b5b7[39m[22m - Time: [1m[37m99[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 57.8 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:53:30.635Z[39m[22m - Hash: [1m[37m1e5c91511a3748e1e1fa[39m[22m - Time: [1m[37m104[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 58.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:54:39.405Z[39m[22m - Hash: [1m[37m864d2d5c59dd44dae4c4[39m[22m - Time: [1m[37m144[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 58.1 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T18:58:05.342Z[39m[22m - Hash: [1m[37m39605bc88b1065126f10[39m[22m - Time: [1m[37m206[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 58.4 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:00:12.122Z[39m[22m - Hash: [1m[37mabba528ea8dcbfd6e79b[39m[22m - Time: [1m[37m162[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 58.4 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:00:17.562Z[39m[22m - Hash: [1m[37m39605bc88b1065126f10[39m[22m - Time: [1m[37m103[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 58.4 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+Port 4200 is already in use. Use '--port' to specify a different port.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:28:30.991Z[39m[22m - Hash: [1m[37mc41e6398c4cbd6d2784e[39m[22m - Time: [1m[37m231[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 64.6 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:28:36.833Z[39m[22m - Hash: [1m[37md77637aeabf6965e343f[39m[22m - Time: [1m[37m188[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 70.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:29:19.688Z[39m[22m - Hash: [1m[37m92c2fa3e5e1cd4f6edf0[39m[22m - Time: [1m[37m426[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 55.9 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0m[0m
+[0m[1m[31mERROR in ./src/app/mi-primera-directiva.directive.ts[39m[22m[0m
+[0m[1m[31mModule build failed: Error: ENOENT: no such file or directory, open '/home/adolfo/proyectosAngular/miApp/src/app/mi-primera-directiva.directive.ts'[39m[22m[0m
+[0m[1m[31m @ ./src/app/app.module.ts 14:39-82[39m[22m[0m
+[0m[1m[31m @ ./src/main.ts[39m[22m[0m
+[0m[1m[31m @ multi webpack-dev-server/client?http://0.0.0.0:0 ./src/main.ts[39m[22m[0m
+[0m[1m[31mERROR in ./src/app/mi-segunda-directiva.directive.ts[39m[22m[0m
+[0m[1m[31mModule build failed: Error: ENOENT: no such file or directory, open '/home/adolfo/proyectosAngular/miApp/src/app/mi-segunda-directiva.directive.ts'[39m[22m[0m
+[0m[1m[31m @ ./src/app/app.module.ts 15:39-82[39m[22m[0m
+[0m[1m[31m @ ./src/main.ts[39m[22m[0m
+[0m[1m[31m @ multi webpack-dev-server/client?http://0.0.0.0:0 ./src/main.ts[39m[22m[0m
+[0m[1m[31mERROR in ./src/app/mi-tercera-directiva.directive.ts[39m[22m[0m
+[0m[1m[31mModule build failed: Error: ENOENT: no such file or directory, open '/home/adolfo/proyectosAngular/miApp/src/app/mi-tercera-directiva.directive.ts'[39m[22m[0m
+[0m[1m[31m @ ./src/app/app.module.ts 16:39-82[39m[22m[0m
+[0m[1m[31m @ ./src/main.ts[39m[22m[0m
+[0m[1m[31m @ multi webpack-dev-server/client?http://0.0.0.0:0 ./src/main.ts[39m[22m[0m
+
+webpack: Failed to compile.
+[1m[31mERROR in src/app/app.module.ts(8,45): error TS2307: Cannot find module './mi-primera-directiva.directive'.[39m[22m
+[1m[31msrc/app/app.module.ts(9,45): error TS2307: Cannot find module './mi-segunda-directiva.directive'.[39m[22m
+[1m[31msrc/app/app.module.ts(10,45): error TS2307: Cannot find module './mi-tercera-directiva.directive'.[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:29:22.525Z[39m[22m - Hash: [1m[37m595dde04e7c5ef3f1e07[39m[22m - Time: [1m[37m147[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 71 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:29:55.863Z[39m[22m - Hash: [1m[37md8424abd744879e4642f[39m[22m - Time: [1m[37m142[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 60.8 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0m[0m
+[0m[1m[31mERROR in ./src/app/clase-hija/clase-hija.component.ts[39m[22m[0m
+[0m[1m[31mModule build failed: Error: ENOENT: no such file or directory, open '/home/adolfo/proyectosAngular/miApp/src/app/clase-hija/clase-hija.component.ts'[39m[22m[0m
+[0m[1m[31m @ ./src/app/app.module.ts 18:29-73[39m[22m[0m
+[0m[1m[31m @ ./src/main.ts[39m[22m[0m
+[0m[1m[31m @ multi webpack-dev-server/client?http://0.0.0.0:0 ./src/main.ts[39m[22m[0m
+[0m[1m[31mERROR in ./src/app/clase-padre/clase-padre.component.ts[39m[22m[0m
+[0m[1m[31mModule build failed: Error: ENOENT: no such file or directory, open '/home/adolfo/proyectosAngular/miApp/src/app/clase-padre/clase-padre.component.ts'[39m[22m[0m
+[0m[1m[31m @ ./src/app/app.module.ts 17:30-76[39m[22m[0m
+[0m[1m[31m @ ./src/main.ts[39m[22m[0m
+[0m[1m[31m @ multi webpack-dev-server/client?http://0.0.0.0:0 ./src/main.ts[39m[22m[0m
+
+webpack: Failed to compile.
+[1m[31mERROR in src/app/app.module.ts(11,37): error TS2307: Cannot find module './clase-padre/clase-padre.component'.[39m[22m
+[1m[31msrc/app/app.module.ts(12,36): error TS2307: Cannot find module './clase-hija/clase-hija.component'.[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:29:57.582Z[39m[22m - Hash: [1m[37m96acf67edde26203ba29[39m[22m - Time: [1m[37m129[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 67.9 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0m[0m
+[0m[1m[31mERROR in ./src/app/interaccion/clase-hija.component.ts[39m[22m[0m
+[0m[1m[31mModule not found: Error: Can't resolve './clase-hija.component.css' in '/home/adolfo/proyectosAngular/miApp/src/app/interaccion'[39m[22m[0m
+[0m[1m[31mresolve './clase-hija.component.css' in '/home/adolfo/proyectosAngular/miApp/src/app/interaccion'[39m[22m[0m
+[0m[1m[31m  using description file: /home/adolfo/proyectosAngular/miApp/package.json (relative path: ./src/app/interaccion)[39m[22m[0m
+[0m[1m[31m    Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m  after using description file: /home/adolfo/proyectosAngular/miApp/package.json (relative path: ./src/app/interaccion)[39m[22m[0m
+[0m[1m[31m    using description file: /home/adolfo/proyectosAngular/miApp/package.json (relative path: ./src/app/interaccion/clase-hija.component.css)[39m[22m[0m
+[0m[1m[31m      no extension[39m[22m[0m
+[0m[1m[31m        Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-hija.component.css doesn't exist[39m[22m[0m
+[0m[1m[31m      .ts[39m[22m[0m
+[0m[1m[31m        Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-hija.component.css.ts doesn't exist[39m[22m[0m
+[0m[1m[31m      .js[39m[22m[0m
+[0m[1m[31m        Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-hija.component.css.js doesn't exist[39m[22m[0m
+[0m[1m[31m      as directory[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-hija.component.css doesn't exist[39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-hija.component.css][39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-hija.component.css.ts][39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-hija.component.css.js][39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-hija.component.css][39m[22m[0m
+[0m[1m[31m @ ./src/app/interaccion/clase-hija.component.ts 22:21-58[39m[22m[0m
+[0m[1m[31m @ ./src/app/app.module.ts[39m[22m[0m
+[0m[1m[31m @ ./src/main.ts[39m[22m[0m
+[0m[1m[31m @ multi webpack-dev-server/client?http://0.0.0.0:0 ./src/main.ts[39m[22m[0m
+[0m[1m[31mERROR in ./src/app/interaccion/clase-padre.component.ts[39m[22m[0m
+[0m[1m[31mModule not found: Error: Can't resolve './clase-padre.component.css' in '/home/adolfo/proyectosAngular/miApp/src/app/interaccion'[39m[22m[0m
+[0m[1m[31mresolve './clase-padre.component.css' in '/home/adolfo/proyectosAngular/miApp/src/app/interaccion'[39m[22m[0m
+[0m[1m[31m  using description file: /home/adolfo/proyectosAngular/miApp/package.json (relative path: ./src/app/interaccion)[39m[22m[0m
+[0m[1m[31m    Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m  after using description file: /home/adolfo/proyectosAngular/miApp/package.json (relative path: ./src/app/interaccion)[39m[22m[0m
+[0m[1m[31m    using description file: /home/adolfo/proyectosAngular/miApp/package.json (relative path: ./src/app/interaccion/clase-padre.component.css)[39m[22m[0m
+[0m[1m[31m      no extension[39m[22m[0m
+[0m[1m[31m        Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css doesn't exist[39m[22m[0m
+[0m[1m[31m      .ts[39m[22m[0m
+[0m[1m[31m        Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css.ts doesn't exist[39m[22m[0m
+[0m[1m[31m      .js[39m[22m[0m
+[0m[1m[31m        Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css.js doesn't exist[39m[22m[0m
+[0m[1m[31m      as directory[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css doesn't exist[39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css][39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css.ts][39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css.js][39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css][39m[22m[0m
+[0m[1m[31m @ ./src/app/interaccion/clase-padre.component.ts 22:21-59[39m[22m[0m
+[0m[1m[31m @ ./src/app/app.module.ts[39m[22m[0m
+[0m[1m[31m @ ./src/main.ts[39m[22m[0m
+[0m[1m[31m @ multi webpack-dev-server/client?http://0.0.0.0:0 ./src/main.ts[39m[22m[0m
+
+webpack: Failed to compile.
+webpack: Compiling...
+[1m[31mERROR in src/app/interaccion/clase-hija.component.ts(5,47): error TS1005: ',' expected.[39m[22m
+[1m[31m[39m[22m
+[0mDate: [1m[37m2018-02-21T19:32:22.792Z[39m[22m - Hash: [1m[37m79c5f5b760d56330f354[39m[22m - Time: [1m[37m155[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 67.3 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0m[0m
+[0m[1m[31mERROR in ./src/app/interaccion/clase-padre.component.ts[39m[22m[0m
+[0m[1m[31mModule not found: Error: Can't resolve './clase-padre.component.css' in '/home/adolfo/proyectosAngular/miApp/src/app/interaccion'[39m[22m[0m
+[0m[1m[31mresolve './clase-padre.component.css' in '/home/adolfo/proyectosAngular/miApp/src/app/interaccion'[39m[22m[0m
+[0m[1m[31m  using description file: /home/adolfo/proyectosAngular/miApp/package.json (relative path: ./src/app/interaccion)[39m[22m[0m
+[0m[1m[31m    Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m  after using description file: /home/adolfo/proyectosAngular/miApp/package.json (relative path: ./src/app/interaccion)[39m[22m[0m
+[0m[1m[31m    using description file: /home/adolfo/proyectosAngular/miApp/package.json (relative path: ./src/app/interaccion/clase-padre.component.css)[39m[22m[0m
+[0m[1m[31m      no extension[39m[22m[0m
+[0m[1m[31m        Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css doesn't exist[39m[22m[0m
+[0m[1m[31m      .ts[39m[22m[0m
+[0m[1m[31m        Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css.ts doesn't exist[39m[22m[0m
+[0m[1m[31m      .js[39m[22m[0m
+[0m[1m[31m        Field 'browser' doesn't contain a valid alias configuration[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css.js doesn't exist[39m[22m[0m
+[0m[1m[31m      as directory[39m[22m[0m
+[0m[1m[31m        /home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css doesn't exist[39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css][39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css.ts][39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css.js][39m[22m[0m
+[0m[1m[31m[/home/adolfo/proyectosAngular/miApp/src/app/interaccion/clase-padre.component.css][39m[22m[0m
+[0m[1m[31m @ ./src/app/interaccion/clase-padre.component.ts 22:21-59[39m[22m[0m
+[0m[1m[31m @ ./src/app/app.module.ts[39m[22m[0m
+[0m[1m[31m @ ./src/main.ts[39m[22m[0m
+[0m[1m[31m @ multi webpack-dev-server/client?http://0.0.0.0:0 ./src/main.ts[39m[22m[0m
+
+webpack: Failed to compile.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:35:23.309Z[39m[22m - Hash: [1m[37m9b7f48f6326f561e079a[39m[22m - Time: [1m[37m140[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 67 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:36:24.803Z[39m[22m - Hash: [1m[37m42921041e0baa0f39141[39m[22m - Time: [1m[37m430[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 73.2 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:36:28.289Z[39m[22m - Hash: [1m[37mec63123b902951e69a24[39m[22m - Time: [1m[37m211[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 79.4 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:38:31.830Z[39m[22m - Hash: [1m[37md65cdab637b294c7118a[39m[22m - Time: [1m[37m108[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 79.9 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:40:07.511Z[39m[22m - Hash: [1m[37m5064ab6f3a6ecec0bd22[39m[22m - Time: [1m[37m161[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 79.8 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/prueba-padre/prueba-padre.component.ts(8,14): error TS2420: Class 'PruebaPadreComponent' incorrectly implements interface 'OnInit'.[39m[22m
+[1m[31m  Property 'ngOnInit' is missing in type 'PruebaPadreComponent'.[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:41:58.036Z[39m[22m - Hash: [1m[37m8561bd8d3b01218683c1[39m[22m - Time: [1m[37m162[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 80.4 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:42:22.945Z[39m[22m - Hash: [1m[37mb9df431c541b1b5b393f[39m[22m - Time: [1m[37m128[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 80.5 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[1m[31mERROR in src/app/prueba-hijo/prueba-hijo.component.ts(15,16): error TS1146: Declaration expected.[39m[22m
+[1m[31msrc/app/prueba-hijo/prueba-hijo.component.ts(15,17): error TS1005: '=' expected.[39m[22m
+[1m[31m[39m[22m
+[0mDate: [1m[37m2018-02-21T19:46:39.640Z[39m[22m - Hash: [1m[37m51c9dd78dc6a38432b76[39m[22m - Time: [1m[37m176[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 75.6 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0m[0m
+[0m[1m[31mERROR in ./src/app/prueba-hijo/prueba-hijo.component.ts[39m[22m[0m
+[0m[1m[31mModule parse failed: Unexpected token (16:14)[39m[22m[0m
+[0m[1m[31mYou may need an appropriate loader to handle this file type.[39m[22m[0m
+[0m[1m[31m| var PruebaHijoComponent = /** @class */ (function () {[39m[22m[0m
+[0m[1m[31m|     function PruebaHijoComponent() {[39m[22m[0m
+[0m[1m[31m|         this. = {};[39m[22m[0m
+[0m[1m[31m|     }[39m[22m[0m
+[0m[1m[31m|     PruebaHijoComponent.prototype.ngOnInit = function () {[39m[22m[0m
+[0m[1m[31m @ ./src/app/app.module.ts 19:30-76[39m[22m[0m
+[0m[1m[31m @ ./src/main.ts[39m[22m[0m
+[0m[1m[31m @ multi webpack-dev-server/client?http://0.0.0.0:0 ./src/main.ts[39m[22m[0m
+
+webpack: Failed to compile.
+webpack: Compiling...
+[1m[31mERROR in src/app/prueba-hijo/prueba-hijo.component.ts(15,16): error TS1146: Declaration expected.[39m[22m
+[1m[31msrc/app/prueba-hijo/prueba-hijo.component.ts(15,17): error TS1005: '=' expected.[39m[22m
+[1m[31m[39m[22m
+[0mDate: [1m[37m2018-02-21T19:48:18.120Z[39m[22m - Hash: [1m[37mf766a7eee3282d816b99[39m[22m - Time: [1m[37m192[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 75.8 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0m[0m
+[0m[1m[31mERROR in ./src/app/prueba-hijo/prueba-hijo.component.ts[39m[22m[0m
+[0m[1m[31mModule parse failed: Unexpected token (16:14)[39m[22m[0m
+[0m[1m[31mYou may need an appropriate loader to handle this file type.[39m[22m[0m
+[0m[1m[31m| var PruebaHijoComponent = /** @class */ (function () {[39m[22m[0m
+[0m[1m[31m|     function PruebaHijoComponent() {[39m[22m[0m
+[0m[1m[31m|         this. = {};[39m[22m[0m
+[0m[1m[31m|     }[39m[22m[0m
+[0m[1m[31m|     PruebaHijoComponent.prototype.ngOnInit = function () {[39m[22m[0m
+[0m[1m[31m @ ./src/app/app.module.ts 19:30-76[39m[22m[0m
+[0m[1m[31m @ ./src/main.ts[39m[22m[0m
+[0m[1m[31m @ multi webpack-dev-server/client?http://0.0.0.0:0 ./src/main.ts[39m[22m[0m
+
+webpack: Failed to compile.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:50:54.714Z[39m[22m - Hash: [1m[37me74976ccbbffd10d749c[39m[22m - Time: [1m[37m280[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 81.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:51:44.637Z[39m[22m - Hash: [1m[37mf51c753bd525c925cb71[39m[22m - Time: [1m[37m174[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 81.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:51:56.413Z[39m[22m - Hash: [1m[37m933e38610592fd216f59[39m[22m - Time: [1m[37m127[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 81.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:52:03.837Z[39m[22m - Hash: [1m[37m506e8f611f5c653fa9fc[39m[22m - Time: [1m[37m104[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 81.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:52:49.996Z[39m[22m - Hash: [1m[37md93cd463fda6b55aa033[39m[22m - Time: [1m[37m186[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 81.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-21T19:53:12.868Z[39m[22m - Hash: [1m[37m43cff6d7bfa7088eead3[39m[22m - Time: [1m[37m334[39m[22mms[0m
+[0m5 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 81.6 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.

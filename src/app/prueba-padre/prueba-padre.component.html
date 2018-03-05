@@ -1,0 +1,12 @@
+<div class="col-12">
+    <h1>{{titulo}}</h1>
+    <h2>{{ nombreEjercicio }}</h2>
+    <h2>Mi tienda se llama {{tienda}}</h2>
+    <app-prueba-hijo class="col-12"
+                     *ngFor="let producto of productos"
+                     [producto]="producto"
+
+                     (cambiarNombreEnPadre)="nombreEjercicio=$event"
+    >
+    </app-prueba-hijo>
+</div>

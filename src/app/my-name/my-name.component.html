@@ -1,0 +1,79 @@
+<div class="container">
+    <div style="text-align:center">
+        <h1>
+            <br>
+            <span [hidden]="esInvisible">My name is {{ name }}</span>
+            <br>
+            <span [style.color]="colorLetra ? 'red' : 'blue'">My surname is {{ surname }}</span>
+            <br>
+            <span [class]="valida">My full name is {{ name + surname}}</span>
+            <br>
+            <span [class.is-invalid]="boleanotest">La multiplicacion de mi edad ({{edad}}) por 7 es igual a: {{ edad * 7 }}</span>
+            <br>
+            <span>{{ dameNombre() }}</span>
+            <button type="button" (click)="deleteHero()">Alert</button>
+            <button type="button" (click)="changeInvisible()">Invisible</button>
+        </h1>
+    </div>
+    <div style="text-align: center">
+        <input value="" (input)="nombrePersonaje=$event.target.value"/>
+        <div><span class="bg-primary">Aqui aparece el nombre de mi personaje:</span><span
+                class="bg-danger text-warning"> {{nombrePersonaje}}</span></div>
+
+
+        <span class="badge badge-pill" [class]="esSuccess ? 'badge-danger' : 'badge-success'">Hulio</span>
+        <br>
+        <button type="button" (click)="changeBadge()"> Chapita</button>
+    </div>
+    <br>
+    <div style="text-align: center">
+        <input type="text" placeholder="Precio" [(ngModel)]="producto.precio"/>
+        <p>Mostrar precio: {{producto.precio}}</p>
+    </div>
+
+    <button class="btn-danger" (click)="toogleDiv()">OIEJROIWE</button>
+    <div *ngIf="mostrarDiv" class="row">
+        dsaasdsaasdasddsa
+    </div>
+    <br>
+    <br>
+    <div *ngFor="let producto of producto2" class="row">
+        <div class="w-100" *ngIf="producto.id % 2 == 0" [ngClass]="{'bg-success' : productoid(producto.id)}">
+            <p [style.color]="getColor(producto.categoria)">Nombre del producto es {{producto.nombre}}
+                y el ID es : {{producto.id}}</p>
+        </div>
+        <div class="w-100" *ngIf="producto.id % 2 == 1" [ngClass]="{'bg-danger' : productoid(producto.id) == false}">
+            <p [style.color]="getColor(producto.categoria)">Nombre del producto es {{producto.nombre}}
+                y el ID es : {{producto.id}}</p>
+        </div>
+    </div>
+
+    <br>
+
+
+    <p appMiPrimeraDirectiva>owietjowietjowietj</p>
+
+    <h3>Selecciona un color</h3>
+    <div>
+        <input type="radio" name="colors" (click)="color='lightgreen'">Verde
+        <input type="radio" name="colors" (click)="color='yellow'">Amarillo
+        <input type="radio" name="colors" (click)="color='blue'">Azul
+    </div>
+
+
+    <p [appMiSegundaDirectiva]='color' defaultColor="red">HIWHQOIWURHIQWHRIUQWHQWUIQWUIHRHQWRHHUQWHIQWHQWr</p>
+
+    <div>
+        <h3>Mi tercera directivaa</h3>
+
+        <div>
+            <input type="radio" name="coloresFondo" (click)="colorFondo='lightgreen'">Verde
+            <input type="radio" name="coloresFondo" (click)="colorFondo='yellow'">Amarillo
+            <input type="radio" name="coloresFondo" (click)="colorFondo='pink'">Rosa
+        </div>
+
+        <button [appMiTerceraDirectiva]="colorFondo" ancho="200px" color="green" class="btn btn-primary">Hola</button>
+    </div>
+
+    <app-prueba-padre></app-prueba-padre>
+</div>
